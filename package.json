@@ -1,0 +1,20 @@
+{
+  "name": "samp-chat-manager",
+  "version": "1.0.0",
+  "description": "Чат-менеджер для SAMP сообщества ВК",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "dev": "nodemon start.js"
+  },
+  "dependencies": {
+    "vk-io": "^4.9.1",
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "author": "Memphis",
+  "license": "MIT"
+}
