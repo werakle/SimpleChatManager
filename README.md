@@ -1,6 +1,6 @@
 🎮 SAMP Chat Manager
 <p align="center">
-  <img src="https://i.imgur.com/3fXy1Kj.png" alt="SAMP Manager Logo" width="200">
+  <img src="https://radikal.host/i/B6u3s8" alt="SAMP Manager Logo" width="200">
 </p>
 <p align="center">
   ✨ Мощный чат-менеджер для SA-MP сообществ на базе <a href="https://github.com/negezor/vk-io" target="_blank">vk-io</a> ✨
@@ -20,6 +20,7 @@
 - 🔧 Гибкая настройка для каждого чата
 
 ## 📂 Структура проекта
+```bash
 samp-chat-manager/
 ├─ src/
 │ ├─ commands/
@@ -36,6 +37,8 @@ samp-chat-manager/
 ├─ start.js # Точка входа
 └─ package.json # Зависимости
 
+```
+
 text
 
 ## ⚙️ Установка
@@ -44,6 +47,8 @@ git clone https://github.com/ваш-репозиторий/samp-chat-manager.git
 cd samp-chat-manager
 
 npm install
+```
+
 Создайте файл .env:
 
 env
