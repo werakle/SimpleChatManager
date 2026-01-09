@@ -42,7 +42,7 @@ samp-chat-manager/
 ## ⚙️ Установка
 ```bash
 git clone https://github.com/werakle/SimpleChatManager
-cd samp-chat-manager
+cd SimpleChatManager
 
 npm install
 ```
